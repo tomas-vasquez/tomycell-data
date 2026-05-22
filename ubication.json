@@ -1,0 +1,13 @@
+{
+  "sectionTitle": "Ubicación",
+  "title": "¿Dónde nos encontramos?",
+  "description": "Encuéntranos en las principales ciudades para brindarte el mejor servicio de reparación y venta de dispositivos reacondicionados. Contamos con talleres en cuatro ciudades para tu comodidad.",
+  "markers": [
+    {
+      "nombre": "Taller principal",
+      "lat": -17.78125,
+      "lon": -63.1793,
+      "descripcion": "Centro de la ciudad."
+    }
+  ]
+}

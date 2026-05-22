@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Inicio",
+    "href": "/"
+  },
+  {
+    "text": "Acerca de nosotros",
+    "href": "/acerca-de-nosotros"
+  },
+  {
+    "text": "Servicios",
+    "href": "/servicios"
+  },
+  {
+    "text": "Preguntas frecuentes",
+    "href": "/preguntas-frecuentes"
+  }
+]

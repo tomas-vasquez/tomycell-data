@@ -1,0 +1,236 @@
+{
+  "title": "¿Quieres reparar tu equipo?",
+  "subtitle": "Selecciona el tipo de tu dispositivo:",
+  "description": "TomyCell es tu técnico en celulares en Bolivia. Reparación de celulares, laptops y tablets en Santa Cruz. Expertos en cambio de pantallas, baterías y más.",
+  "repairsByCategory": [
+    {
+      "categoryId": "celular",
+      "title": "Celular",
+      "subtitle": "Selecciona el problema de tu celular:",
+      "sectionTitle": "¿Qué problema tiene tu celular?",
+      "description": "Servicio especializado en reparación de celulares: cambio de pantalla, batería, altavoz y más. Atención rápida y profesional.",
+      "icon": "smartphone",
+      "repairs": [
+        {
+          "repairsId": "pantalla",
+          "title": "Pantalla quebrada",
+          "subtitle": "Reemplazo de pantalla completa",
+          "description": "Cambio de pantalla para celulares con daños graves. Usamos pantallas originales y garantizamos la reparación.",
+          "buttonText": "Quiero cambiar mi pantalla",
+          "msgText": "Hola, quiero cambiar la pantalla de mi celular.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "bateria",
+          "title": "Batería dañada",
+          "subtitle": "Reemplazo de batería",
+          "description": "Cambio de batería para mejorar la autonomía de tu celular. Baterías originales y compatibles con tu equipo.",
+          "buttonText": "Quiero cambiar mi batería",
+          "msgText": "Hola, quiero cambiar la batería de mi celular.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "carga",
+          "title": "Problemas de carga",
+          "subtitle": "Reparación del puerto de carga",
+          "description": "Si tu celular no carga o lo hace intermitentemente, reparamos o cambiamos el puerto de carga.",
+          "buttonText": "Quiero reparar el puerto de carga",
+          "msgText": "Hola, mi celular tiene problemas de carga. ¿Pueden ayudarme?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "altavoz",
+          "title": "Altavoz o micrófono",
+          "subtitle": "Reparación o reemplazo",
+          "description": "Solucionamos problemas de sonido en llamadas, altavoz o micrófono defectuoso.",
+          "buttonText": "Quiero reparar mi altavoz o micrófono",
+          "msgText": "Hola, mi celular tiene problemas con el sonido. ¿Pueden revisarlo?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "botones",
+          "title": "Botones dañados",
+          "subtitle": "Reparación de botones de encendido o volumen",
+          "description": "Reparación o cambio de botones que no responden o están atascados.",
+          "buttonText": "Quiero reparar los botones de mi celular",
+          "msgText": "Hola, los botones de mi celular no funcionan. ¿Pueden repararlos?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "camara",
+          "title": "Cámara dañada",
+          "subtitle": "Reemplazo o reparación de cámara",
+          "description": "Si tu cámara toma fotos borrosas o no funciona, reparamos o cambiamos el módulo de la cámara.",
+          "buttonText": "Quiero reparar mi cámara",
+          "msgText": "Hola, mi cámara no funciona correctamente. ¿Pueden ayudarme?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "agua",
+          "title": "Daños por agua",
+          "subtitle": "Reparación por exposición al agua",
+          "description": "Reparación de equipos dañados por agua. Diagnosticamos y ofrecemos limpieza de la placa base.",
+          "buttonText": "Quiero reparar mi celular por daños de agua",
+          "msgText": "Hola, mi celular ha estado expuesto al agua. ¿Pueden repararlo?",
+          "vimeoId": 1065917652
+        }
+      ]
+    },
+    {
+      "categoryId": "tablet",
+      "title": "Tablet",
+      "subtitle": "Selecciona el problema de tu tablet:",
+      "sectionTitle": "¿Qué problema tiene tu tablet?",
+      "description": "Servicio especializado en reparación de tablets: cambio de pantalla, batería, puerto de carga y más.",
+      "icon": "tablet",
+      "repairs": [
+        {
+          "repairsId": "pantalla",
+          "title": "Pantalla quebrada",
+          "subtitle": "Reemplazo de pantalla completa",
+          "description": "Cambio de pantalla para tablets con daños graves. Usamos repuestos de calidad y garantizamos la reparación.",
+          "buttonText": "Quiero cambiar mi pantalla",
+          "msgText": "Hola, quiero cambiar la pantalla de mi tablet.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "bateria",
+          "title": "Batería dañada",
+          "subtitle": "Reemplazo de batería",
+          "description": "Cambio de batería para que tu tablet vuelva a tener buena autonomía.",
+          "buttonText": "Quiero cambiar mi batería",
+          "msgText": "Hola, quiero cambiar la batería de mi tablet.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "carga",
+          "title": "Problemas de carga",
+          "subtitle": "Reparación del puerto de carga",
+          "description": "Si tu tablet no carga o lo hace intermitentemente, reparamos o cambiamos el puerto de carga.",
+          "buttonText": "Quiero reparar el puerto de carga",
+          "msgText": "Hola, mi tablet tiene problemas de carga. ¿Pueden ayudarme?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "software",
+          "title": "Fallas de software",
+          "subtitle": "Optimización y reparación de sistema",
+          "description": "Si tu tablet está lenta, se congela o tiene errores, optimizamos y reparamos el sistema.",
+          "buttonText": "Quiero optimizar mi tablet",
+          "msgText": "Hola, mi tablet está muy lenta y falla. ¿Pueden revisarla?",
+          "vimeoId": 1065917652
+        }
+      ]
+    },
+    {
+      "categoryId": "laptop",
+      "title": "Laptop",
+      "subtitle": "Selecciona el problema de tu laptop:",
+      "sectionTitle": "¿Qué problema tiene tu laptop?",
+      "description": "Servicio técnico especializado en laptops: mantenimiento, cambio de componentes y reparación de hardware y software.",
+      "icon": "laptop",
+      "repairs": [
+        {
+          "repairsId": "pantalla",
+          "title": "Pantalla quebrada",
+          "subtitle": "Reemplazo de pantalla",
+          "description": "Cambio de pantalla para laptops con daños físicos o rayas. Usamos repuestos compatibles.",
+          "buttonText": "Quiero cambiar mi pantalla",
+          "msgText": "Hola, quiero cambiar la pantalla de mi laptop.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "bateria",
+          "title": "Batería dañada",
+          "subtitle": "Reemplazo de batería",
+          "description": "Cambio de batería para laptops que no mantienen carga o se apagan repentinamente.",
+          "buttonText": "Quiero cambiar mi batería",
+          "msgText": "Hola, quiero cambiar la batería de mi laptop.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "teclado",
+          "title": "Teclado dañado",
+          "subtitle": "Reparación o reemplazo de teclado",
+          "description": "Reparación o cambio de teclado con teclas que no responden o están atascadas.",
+          "buttonText": "Quiero reparar mi teclado",
+          "msgText": "Hola, el teclado de mi laptop no funciona. ¿Pueden repararlo?",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "mantenimiento",
+          "title": "Mantenimiento y limpieza",
+          "subtitle": "Limpieza interna y cambio de pasta térmica",
+          "description": "Mantenimiento preventivo: limpieza de polvo, cambio de pasta térmica y revisión general del sistema.",
+          "buttonText": "Quiero hacer mantenimiento",
+          "msgText": "Hola, quiero hacer mantenimiento a mi laptop.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "disco",
+          "title": "Cambio de disco o SSD",
+          "subtitle": "Actualización a disco SSD",
+          "description": "Cambio de disco duro por SSD para mejorar el rendimiento de tu laptop. Incluye migración de datos.",
+          "buttonText": "Quiero cambiar mi disco",
+          "msgText": "Hola, quiero cambiar el disco de mi laptop por un SSD.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "ram",
+          "title": "Actualización de RAM",
+          "subtitle": "Ampliación de memoria RAM",
+          "description": "Aumentamos la memoria RAM de tu laptop para que funcione más rápido con múltiples aplicaciones.",
+          "buttonText": "Quiero ampliar mi RAM",
+          "msgText": "Hola, quiero aumentar la memoria RAM de mi laptop.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "software",
+          "title": "Fallas de software",
+          "subtitle": "Reparación del sistema operativo",
+          "description": "Diagnóstico y solución de problemas de software: lentitud, virus, pantalla azul y más.",
+          "buttonText": "Quiero reparar mi software",
+          "msgText": "Hola, mi laptop tiene problemas de software. ¿Pueden ayudarme?",
+          "vimeoId": 1065917652
+        }
+      ]
+    },
+    {
+      "categoryId": "equipo",
+      "title": "Otro dispositivo",
+      "subtitle": "Selecciona el servicio que necesitas:",
+      "sectionTitle": "¿Qué otro dispositivo necesitas reparar?",
+      "description": "Reparamos consolas de videojuegos, monitores, parlantes y otros dispositivos electrónicos. Consulta por tu equipo.",
+      "icon": "tools",
+      "repairs": [
+        {
+          "repairsId": "consola",
+          "title": "Consolas de videojuegos",
+          "subtitle": "Reparación de consolas",
+          "description": "Reparación de consolas PlayStation, Xbox, Nintendo Switch y más. Diagnóstico y solución de fallas.",
+          "buttonText": "Quiero reparar mi consola",
+          "msgText": "Hola, quiero reparar mi consola de videojuegos.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "monitor",
+          "title": "Monitores y pantallas",
+          "subtitle": "Reparación de monitores",
+          "description": "Reparación de monitores LCD, LED y pantallas externas con problemas de imagen o conexión.",
+          "buttonText": "Quiero reparar mi monitor",
+          "msgText": "Hola, quiero reparar mi monitor o pantalla externa.",
+          "vimeoId": 1065917652
+        },
+        {
+          "repairsId": "general",
+          "title": "Otros equipos electrónicos",
+          "subtitle": "Consulta por tu equipo",
+          "description": "¿Tienes otro dispositivo electrónico dañado? Contáctanos y te daremos una solución.",
+          "buttonText": "Consultar reparación",
+          "msgText": "Hola, quiero consultar por la reparación de otro dispositivo electrónico.",
+          "vimeoId": 1065917652
+        }
+      ]
+    }
+  ]
+}

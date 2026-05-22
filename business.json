@@ -1,0 +1,43 @@
+{
+  "phone": "76897088",
+  "codeArea": "591",
+  "email": "tomycell@tomycell.com",
+  "social":[
+    {
+      "name":"tiktok",
+      "link":"https://www.tiktok.com/@tomycell",
+      "icon":"tiktok"
+    },    
+    {
+      "name":"facebook",
+      "link":"https://www.facebook.com/tomycell",
+      "icon":"facebook"
+    },
+    {
+      "name":"instagram",
+      "link":"https://www.instagram.com/tomycell",
+      "icon":"instagram"
+    }
+  ],
+  "address": {
+    "streetAddress": "Calle Muchiri N°233",
+    "addressLocality": "Santa Cruz - Bolivia"
+  },
+  "workshopsBySection": [
+    {
+      "sectionId": "Santa Cruz",
+      "lat": -17.7833,
+      "lon": -63.1821,
+      "workshops": [
+        {
+          "workshopId": "Sucursal Ramada",
+          "phone": "76897088",
+          "isMainBranch": true,
+          "streetAddress": "Calle Muchiri N°233",
+          "lat": -17.78125,
+          "lon": -63.1793
+        }
+      ]
+    }
+  ]
+}

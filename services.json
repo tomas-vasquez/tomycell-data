@@ -1,0 +1,34 @@
+{
+  "title": "Servicios",
+  "subtitle": "Técnico celulares Bolivia - Soluciones rápidas y confiables para tus dispositivos electrónicos",
+  "description": "En TomyCell somos tu técnico en celulares en Bolivia. Nos especializamos en la reparación, compra y venta de dispositivos electrónicos en Santa Cruz. Ofrecemos un servicio técnico de calidad, equipos reacondicionados garantizados y la posibilidad de vender tus celulares averiados. ¡Déjanos ayudarte a mantener tus dispositivos en perfecto estado!",
+  "services": [
+    {
+      "title": "Servicio Técnico de Equipos Electrónicos",
+      "content": "En nuestro taller ofrecemos un servicio técnico completo para una amplia gama de dispositivos electrónicos, desde smartphones hasta computadoras y electrodomésticos. Nuestros técnicos altamente capacitados diagnostican y reparan de manera eficiente los problemas comunes como pantallas rotas, fallos de batería, problemas de software y más. ¡Te ayudamos a recuperar el funcionamiento de tus dispositivos en el menor tiempo posible!",
+      "shortDescription": "Reparación rápida y profesional de dispositivos electrónicos, garantizando calidad y rapidez.",
+      "icon": "tools",
+      "img": "/svg/repair.svg",
+      "buttonText": "Solicitar reparación",
+      "msgText": "Hola, quiero información sobre Servicio Técnico de Equipos Electrónicos"
+    },
+    {
+      "title": "Venta de Equipos Reacondicionados",
+      "content": "Si buscas dispositivos de calidad a precios accesibles, contamos con una selección de equipos reacondicionados certificados. Nuestros dispositivos pasan por un exhaustivo proceso de revisión, reparación y prueba para asegurarnos de que funcionen como nuevos. Ofrecemos smartphones, laptops y otros dispositivos a precios mucho más bajos que los nuevos, con garantía incluida.",
+      "shortDescription": "Venta de equipos reacondicionados certificados a precios accesibles, con garantía incluida.",
+      "icon": "cart",
+      "img": "/svg/refurbished-device.svg",
+      "buttonText": "Ver catálogo",
+      "msgText": "Hola, quiero información sobre Venta de Equipos Reacondicionados"
+    },
+    {
+      "title": "Compra de Celulares Averiados",
+      "content": "¿Tienes un celular dañado que ya no usas? Te compramos equipos móviles averiados o dañados. Incluso si la pantalla está rota, la batería no carga o el dispositivo no enciende, podemos ofrecerte un precio justo por tu equipo y darle una segunda vida. Contáctanos para saber cuánto puedes obtener por tu celular.",
+      "shortDescription": "Compra de celulares dañados, incluyendo equipos con pantallas rotas, baterías defectuosas o sin encender.",
+      "icon": "cash",
+      "img": "/svg/buy-broken-phone.svg",
+      "buttonText": "Cotizar mi equipo",
+      "msgText": "Hola, quiero información sobre Compra de Celulares Averiados"
+    }
+  ]
+}
