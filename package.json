@@ -1,0 +1,22 @@
+{
+  "name": "tomycell-data",
+  "version": "1.0.1",
+  "description": "Datos de TomyCell - información del negocio, servicios, ubicación y más",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "data/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas-vasquez/tomycell-data.git"
+  },
+  "keywords": [
+    "tomycell",
+    "datos",
+    "negocio"
+  ],
+  "author": "tomas-vasquez",
+  "license": "MIT"
+}
