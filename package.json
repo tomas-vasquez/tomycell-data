@@ -1,6 +1,6 @@
 {
   "name": "tomycell-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Datos de TomyCell - información del negocio, servicios, ubicación y más",
   "main": "index.js",
   "type": "module",
