@@ -5,4 +5,6 @@ import services from "./data/services.json";
 import ubication from "./data/ubication.json";
 import frequentQuestions from "./data/frequentQuestions.json";
 
+export { main, business, about, services, ubication, frequentQuestions };
+
 export default { main, business, about, services, ubication, frequentQuestions };
